@@ -1,0 +1,5 @@
+Fluxo de trabalho local
+
+Trabalhar no código
+git add .
+git commit -m "descrição do commit"
