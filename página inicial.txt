@@ -8,10 +8,13 @@ git log - mostrar os commit existentes no repositório
 
 Fluxo de trabalho com repositório remoto
 
+<git clone> - Baixar o projeto para sua máquina
 Trabalhar no código
 git add .
 git commit -m "descrição do commit"
 git push origin main
+
+
 
 Atualização pós aula
 
